@@ -112,8 +112,8 @@ Pod::Spec.new do |s|
   # s.framework  = "SomeFramework"
   s.frameworks = "SystemConfiguration", "CFNetwork", "UIKit", "Foundation", "CoreGraphics", "ExternalAccessory", "BRPtouchPrinterKit"
 
-  # s.library   = "iconv"
-  s.libraries = "c++", "iconv", "xml2"
+  s.library   = "c++"
+  # s.libraries = "iconv", "xml2"
 
 
   # ――― Project Settings ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
