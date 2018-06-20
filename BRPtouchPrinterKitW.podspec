@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "BRPtouchPrinterKit"
+  s.name         = "BRPtouchPrinterKitW"
   s.version      = "3.1.7"
   s.summary      = "Brother Print SDK for iPhone/iPad."
 
